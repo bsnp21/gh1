@@ -3,7 +3,6 @@ var MostRecentVerses = {
         "MostRecentSearch": [
             {
                 "[\"glory\",322,\"ESV\",\"all\"]": "221120 075143",
-                "[\"glory\",0,\"ESV\",\"Amos\"]": "221120 070754",
                 "[\"live by\",29,\"NIV\",\"all\"]": "221104 183630",
                 "[\"live by\",29,\"NIV\",\"\"]": "221103 230631",
                 "[\"live by\",0,\"NIV\",\"Amos\"]": "221103 230621",
